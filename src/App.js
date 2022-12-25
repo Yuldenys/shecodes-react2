@@ -19,7 +19,7 @@ export default function App() {
           </a>{" "}
           and is{" "}
           <a
-            href="https://github.com/Yuldenys/react-project"
+            href="https://github.com/Yuldenys/shecodes-react2"
             target="_blank"
             rel="noopener noreferrer"
           >
